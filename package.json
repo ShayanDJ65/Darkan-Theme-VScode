@@ -1,14 +1,18 @@
 {
-  "name": "shayan-s-theme",
-  "displayName": "Shayan's theme",
+  "name": "DarkanTheme",
+  "displayName": "DarkanTheme",
   "description": "My first theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.71.0"
   },
+  "author": {
+    "name": "Shayan Hosseinzadeh"
+  },
   "categories": [
     "Themes"
   ],
+  
   "contributes": {
     "themes": [
       {
