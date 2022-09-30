@@ -1,0 +1,21 @@
+{
+  "name": "shayan-s-theme",
+  "displayName": "Shayan's theme",
+  "description": "My first theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shayan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shayan-color-theme.json"
+      }
+    ]
+  }
+}
